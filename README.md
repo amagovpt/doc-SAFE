@@ -25,6 +25,7 @@ Para a certificação deverão ser fornecidas as seguintes evidências:
 * Relatório assinado digitalmente (com LTV) com evidências de cumprimento das guidelines de integração.
 * Vídeo demonstrativo da solução.
 * Providenciar 5 exemplares de documentos assinados, em ambiente pré-produtivo.
+* Código fonte da aplicação para certificação por parte da AMA (relativo à integração). Como alternativa, pode também ser pedida a certificação da aplicação a uma entidade externa independente e credenciada para auditorias eIDAS.
 
 Após a receção das evidências a Agência para a Modernização Administrativa (AMA IP)  precederá à avaliação.
 No processo de avaliação está previsto: 

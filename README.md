@@ -36,6 +36,6 @@ No processo de avaliação está previsto:
 
 **NOTA:** A configuração em ambiente produtivo é precedida da formalização de protocolo e de certificação.
 ## Outros recursos
-Para a integração com OAuth (funcionalidade opcional, mas recomendável) a documentação técnica está disponível em https://github.com/amagovpt/doc-AUTENTICACAO
+Para a integração com OAuth a documentação técnica está disponível em https://github.com/amagovpt/doc-AUTENTICACAO
 ## Contactos
 Para questões, sugestões ou comentários envie um e-mail para eid@ama.pt.
